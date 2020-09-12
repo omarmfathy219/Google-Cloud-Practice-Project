@@ -6,12 +6,8 @@ https://googlepluralsight.qwiklabs.com/focuses/11017277?parent=lti_session
 
 ## Objectives
 
- - In this lab, you will learn how to perform the following tasks:
-
  - Create a Compute Engine virtual machine using the Google Cloud Platform (GCP) Console.
-
  - Create a Compute Engine virtual machine using the gcloud command-line interface.
-
  - Connect between the two instances.
 
 
