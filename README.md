@@ -4,4 +4,4 @@
 
 Google Africa Developer Scholarship Phase II Practice Project 
 
-## Completed Labs: 136/170
+## Completed Labs: 149/168
