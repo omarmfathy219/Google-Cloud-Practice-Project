@@ -5,6 +5,8 @@
 Google Africa Developer Scholarship Phase II Practice Project 
 
 ## Completed Labs: 149/168
+## Trtranslated Labs: 1 --> in Progress
+
 
 ## My Qwiklabs Public Profile:
 https://www.qwiklabs.com/public_profiles/9439b21f-2adb-446c-88a9-c284cd610881
