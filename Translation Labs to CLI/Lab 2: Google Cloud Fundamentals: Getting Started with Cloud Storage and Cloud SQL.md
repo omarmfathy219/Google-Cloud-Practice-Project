@@ -110,7 +110,7 @@ sudo nano index.php
 ```
 Paste in the following content into the file:
 
-```html
+```php
 <html>
 <head><title>Welcome to my excellent blog</title></head>
 <body>
