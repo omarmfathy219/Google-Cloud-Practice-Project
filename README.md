@@ -1,4 +1,6 @@
 <img src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96" alt="Google Cloud Platform logo" title="Google Cloud Platform" align="right" height="96" width="96"/>
+<img src="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1476807400/hel0av33klakal6twwyj.png
+" alt=" Qwiklabs logo" title="Qwiklabs" align="right" height="96" width="96"/>
 
 # Google-Cloud-Practice-Project
 
