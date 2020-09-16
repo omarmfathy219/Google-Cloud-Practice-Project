@@ -5,7 +5,7 @@
 Google Africa Developer Scholarship Phase II Practice Project 
 
 ### Completed Labs: 149/168
-![](https://img.shields.io/badge/Completed_Qwiklabs-11-informational?style=flat&logo=qwiklabs&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Completed_Qwiklabs-149-informational?style=flat&logo=qwiklabs&logoColor=white&color=blue)
 
 ### Translated Labs: 2
 
