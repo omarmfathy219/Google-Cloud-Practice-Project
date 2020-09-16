@@ -1,11 +1,14 @@
 <img src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96" alt="Google Cloud Platform logo" title="Google Cloud Platform" align="right" height="96" width="96"/>
+<img src="Qwiklabs-logo.png" alt=" Qwiklabs logo" title="Qwiklabs" align="right" height="96" width="96"/>
 
 # Google-Cloud-Practice-Project
 
 Google Africa Developer Scholarship Phase II Practice Project 
 
 ### Completed Labs: 149/168
-### Translated Labs: 1 --> Still in Progress
+![](https://img.shields.io/badge/Completed_Qwiklabs-149-informational?style=flat&logo=qwiklabs&logoColor=white&color=blue)
+
+### Translated Labs: 2
 
 
 ## My Qwiklabs Public Profile:
