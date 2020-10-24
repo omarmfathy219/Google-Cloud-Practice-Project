@@ -1,16 +1,33 @@
-<img src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96" alt="Google Cloud Platform logo" title="Google Cloud Platform" align="right" height="96" width="96"/>
+# Hall-Of-Fame [![](https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg)](https://github.com/sourcerer-io/hall-of-fame/releases) [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/sourcerer-io/hall-of-fame/blob/master/LICENSE.md)
 
-# Google-Cloud-Practice-Project
+<img src="https://user-images.githubusercontent.com/20287615/43668986-d98186cc-9734-11e8-9c3e-3956a512be04.png" width="680px">
 
-Google Africa Developer Scholarship Phase II Practice Project 
+Hall-of-fame helps you show some love to your contributors. It automatically highlights your new, trending, and top contributors, and updates every hour. You can put this widget anywhere inside your README, e.g. to "Contributing" section. No maintenance is required.
 
-### Completed Labs: 149/168
-![](https://img.shields.io/badge/Completed_Qwiklabs-149-informational?style=flat&logo=qwiklabs&logoColor=white&color=blue)
+## About My Project 
 
-### Translated Labs: 2
+Every hour, Hall-of-fame looks into recent commits of your repo using GitHub API. It then selects three categories of contributors: new (those who made their first commit to your repo in the last 7 days), trending (those with most commits in the last 7 days), and top (those with most commits of all time). It then selects up to three new contributors, up to 4 trending contributors, and if total is less than 7, it fill up the remaining spots with top contributors.
+
+Each contributor in the Hall-of-fame is represented with their avatar, and a badge new/trending/top with the corresponding number of commits. Each avatar links to a contributor's profile. Which means that anyone has a chance to be prominently featured on your README for some time!
+
+Hall-of-fame works with Sourcerer (https://sourcerer.io), but it's not required for your contributors. If a contributor has a Sourcerer profile, their Sourcerer avatar with a halo is used, and the avatar links to their Sourcerer profile. If they don't, an avatar based on their GitHub is used, and it is linked to their GitHub profile.
+
+## Live examples
+
+### [iterative/dvc](https://github.com/iterative/dvc)
 
 
-## My Qwiklabs Public Profile:
-https://www.qwiklabs.com/public_profiles/9439b21f-2adb-446c-88a9-c284cd610881
+**A:** It refreshes once an hour, and sometimes takes a bit longer. Just wait, it will be there. Another possibility is there are enough contributors with more commits this week. Contributors are sorted by the number of commits, so if you push another commit, you will increase your chance to show in Hall-of-fame.
 
-<img src="https://tlcr3w.am.files.1drv.com/y4m-Obvuu40c4G9eVJ0dD6bqQ6CJpl184_GpnH5DNTLYVzUrki5zHbNvVhM-J2NOHukitEcSLzoWQU2pMteIkFABaVnPZKRwxwjAhJc2a4FvTahBwN0MZsV6xBDpGEWMl0aPFyBi1oIQPBr32WL44DlqjYMhGHvp1QohUyZksfWDvlkddTDVK8B0j2-SHQg6DXucFP4mhRHbUBexWPSeX7FlQ?width=988&height=524&cropmode=none" width="988" height="524" />
+## Contributing
+
+Contribute to Hall-of-fame by all means. Here is the live Hall-of-fame for this repo:
+
+[![](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/images/0)](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/links/0)
+[![](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/images/1)](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/links/1)
+[![](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/images/2)](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/links/2)
+[![](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/images/3)](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/links/3)
+[![](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/images/4)](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/links/4)
+[![](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/images/5)](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/links/5)
+[![](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/images/6)](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/links/6)
+[![](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/images/7)](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/links/7)
